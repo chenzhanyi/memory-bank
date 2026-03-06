@@ -21,7 +21,6 @@ shuizu/
 │   └── skills/
 │       └── memory-bank/
 │           └── SKILL.md              # Skill定义文件
-├── sk.md                             # 原始构想文档
 ├── sk-dev-doc.md                     # 完整开发文档
 ├── QUICKSTART.md                     # 快速开始指南
 └── README.md                         # 项目说明文档
