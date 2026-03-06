@@ -1,9 +1,5 @@
 # Memory Bank - 图书馆式记忆库 Skill
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-orange.svg)](https://www.python.org)
-
 > 一个基于文件系统的智能体记忆管理技能，采用图书馆索引式设计，支持自动分类存储、智能检索和安全加密。
 
 ## ✨ 核心特性
@@ -329,9 +325,7 @@ mkdocs serve
 
 ## 📮 联系方式
 
-- 项目主页: [GitHub Repository]
-- 问题反馈: [GitHub Issues]
-- 邮箱: [your-email@example.com]
+- 邮箱: [bpsgp10086@gmail.com]
 
 ---
 
