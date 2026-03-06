@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /Users/mac/Documents/trae_projects/shuizu/.trae/skills/memory-bank && python examples/demo.py 2>&1)",
+      "Bash(cd /Users/mac/Documents/trae_projects/shuizu/.trae/skills/memory-bank && python3 examples/demo.py 2>&1)",
+      "Bash(git add .)"
+    ]
+  }
+}
